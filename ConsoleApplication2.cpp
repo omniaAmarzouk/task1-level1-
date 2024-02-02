@@ -1,4 +1,4 @@
-﻿/*● For each expression:
+﻿//● For each expression:
 
 
 #include <iostream>
