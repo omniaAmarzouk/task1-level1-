@@ -1,4 +1,4 @@
-﻿/*Problem #1: Averages
+//Problem #1: Averages
 
 #include <iostream>
 using namespace std;
