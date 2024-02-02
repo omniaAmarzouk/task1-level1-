@@ -1,4 +1,4 @@
-﻿/*Problem #2: Fractional Part
+//Problem #2: Fractional Part
 
 #include <iostream>
 using namespace std;
