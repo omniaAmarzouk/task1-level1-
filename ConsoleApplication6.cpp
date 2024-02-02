@@ -1,9 +1,5 @@
-﻿/*Problem #1: Is it Even?
-● Write a program that reads a positive integer and test if it is even or note
-● Find at least 3 different ways for this task:
-○ Using only %2
-○ Using only /2
-○ Using only %10*/
+﻿//Problem #1: Is it Even?
+
 #include <iostream>
 using namespace std;
 int main()
