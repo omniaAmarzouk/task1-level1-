@@ -1,4 +1,4 @@
-﻿/*  Homework 2: Create your own Logic!
+//  Homework 2: Create your own Logic!
 
 #include <iostream>
 using namespace std;
