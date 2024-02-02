@@ -1,10 +1,4 @@
-﻿/*Problem #3: Our Remainder
-● We know that N % M computes the remainder of dividing N by M
-● Write a program that reads in 2 positive integers, and print out the remainder
-without using the modulus operator %
-● Input: 27 12
-● Output: 3
-○ Remember, in mathematics: 27 % 12 = 3*/
+﻿//Problem #3: Our Remainder
 #include <iostream>
 using namespace std;
 int main()
